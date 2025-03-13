@@ -1,0 +1,120 @@
+[
+    {
+        "nombre": "tuana segunda niño verano",
+        "precio": "$US 400",
+        "descripcion": "ropa de niño mixto verano",
+        "imagen": "fotos_fardos/tuana 2 niño verano.jpg"
+    },
+
+    {
+        "nombre": "The King segunda sweter juvenil",
+        "precio": "$US 400",
+        "descripcion": "Descripción del producto 2",
+        "imagen": "fotos_fardos/the king 2 sweter juvenil.jpg"
+    },
+
+    {
+        "nombre": "the king primera sweter juvenil",
+        "precio": "$US 400",
+        "descripcion": "descripcion",
+        "imagen": "fotos_fardos/the king 1 sweter juvenil.jpg"
+    },
+
+    {
+        "nombre": "salhi segunda poleron",
+        "precio": "$US 400",
+        "descripcion": "descripcion",
+        "imagen": "fotos_fardos/salhi 2 poleron.jpg"
+    },
+
+    {
+        "nombre": "salhi primera pepro sabana",
+        "precio": "$US 400",
+        "descripcion": "descripcion",
+        "imagen": "fotos_fardos/salhi 1 pepro sabana.jpg"
+    },
+
+    {
+        "nombre": "nil primera polera hombre M/larga",
+        "precio": "$US 400",
+        "descripcion": "ropa",
+        "imagen": "fotos_fardos/nil 1 polera hombre Mlarga.jpg"
+    },
+
+    {
+        "nombre": "jean adulto",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/jean adulto.jpg"
+    },
+
+    {
+        "nombre": "conkur segunda short",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/conkur 2 short.jpg"
+    },
+
+    {
+        "nombre": "chungur segunda shor misxto",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 2 shor misxto.jpg"
+    },
+
+    {
+        "nombre": "chungur segunda polera dama M/corta",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 2 polera dama Mcorta.jpg"
+    },
+
+    {
+        "nombre": "chungur segunda pole M/corta",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 2 pole Mcorta.jpg"
+    },
+
+    {
+        "nombre": "chungur primera sweter abierto",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 1 sweter abierto.jpg"
+    },
+
+    {
+        "nombre": "chungur primera short mixto",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 1 short mixto.jpg"
+    },
+
+    {
+        "nombre": "chungur primera polera dama M/corta",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 1 polera dama Mcorta.jpg"
+    },
+
+    {
+        "nombre": "chungur primera pescador",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 1 pescador.jpg"
+    },
+
+    {
+        "nombre": "chungur primera jeans dama",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/chungur 1 jeans dama.jpg"
+    },
+
+    {
+        "nombre": "california pijama invierno",
+        "precio": "$US 400",
+        "descripcion": "ropa ",
+        "imagen": "fotos_fardos/california pijama invierno.jpg"
+    }
+]
