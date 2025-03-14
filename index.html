@@ -51,7 +51,7 @@
 
     <script>
         async function cargarProductos() {
-            const respuesta = await fetch('productos.json');
+           const respuesta = await fetch(`productos.json?v=${new Date().getTime()}`);
             const productos = await respuesta.json();
             const catalogo = document.getElementById('catalogo');
             catalogo.innerHTML = '';
